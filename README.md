@@ -5,13 +5,14 @@ About Me
 <p>I'm still a beginner at coding and more IT-related things. I'm currently taking the BS Information Technology Program. Looking forward to learning more!</p>
 <hr>
 
-<p>
-int favDigit = 3;<br>
-String favIdol = "Kasane Teto";<br><br>
-
-System.out.println("I like the number " + favDigit + " and " + favIdol);
-</p>
-<hr>
+<h3>Skill Set</h3>
+<ul>
+    <li> HTML </li>
+    <li> Java </li>
+    <li> Editing </li>
+    <li> SQL </li>
+    <li> CSS </li>
+</ul>
 
 <h3>Education</h3>
 <ul>
