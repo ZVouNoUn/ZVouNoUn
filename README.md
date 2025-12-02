@@ -13,6 +13,7 @@ About Me
     <li> SQL </li>
     <li> CSS </li>
 </ul>
+    <hr>
 
 <h3>Education</h3>
 <ul>
