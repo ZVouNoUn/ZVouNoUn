@@ -1,27 +1,33 @@
 # Klein-C.-Balazon
 About Me
 
+<h1>Hello! I'm Klein C. Balazon</h1>
+<p>I'm still a beginner at coding and more IT-related things. I'm currently taking the BS Information Technology Program. Looking forward to learning more!</p>
+<hr>
 
-
-<h1> Hello! I'm Klein C. Balazon </h1>
-    <p> I'm still a beginner at coding and more it related things. I'm currently taking the BS Information Technology Program. Looking forward to learning more!
-    <p></p>
-  <hr>
-     <p> int favDigit = 3;
-String favIdol = "Kasane Teto"
+<p>
+int favDigit = 3;<br>
+String favIdol = "Kasane Teto";<br><br>
 
 System.out.println("I like the number " + favDigit + " and " + favIdol);
 </p>
-        <hr>
-    <h3>Education</h3>
+<hr>
+
+<h3>Education</h3>
+<ul>
+  <li>BS Information Technology
     <ul>
-    <li> BS Information Technology
-      <ul>
-        <li>New Era University</li>
-        <li>2024-Present</li>
-      </ul>
-   </li>
-   </ul>
-      <p></p>
-       <hr>
-    <h3>Certifications</h3>
+      <li>New Era University</li>
+      <li>2024–Present</li>
+    </ul>
+  </li>
+</ul>
+<hr>
+
+<h3>Certifications</h3>
+<p>
+  <a href="https://courses.cognitiveclass.ai/certificates/8ff0d706832c418fbfe27dc97501c8cf#" 
+     target="_blank"> 
+          SQL and Relational Databases 101
+  </a>
+</p>
